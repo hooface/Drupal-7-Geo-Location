@@ -1,0 +1,19 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=99:36:C7:9F:39:6D:61:4B:74:B3:EE:AF:40:D4:38:55:04:2B:B7:FA%3Bnet.iplanet.Drupal7GeoLocation
+
+    You can also add your credentials to an existing key, using this line:
+    99:36:C7:9F:39:6D:61:4B:74:B3:EE:AF:40:D4:38:55:04:2B:B7:FA;net.iplanet.drupal7geolocation
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBddXaGN7qzdK748Ga9i6D7TPtJJhcqeTw</string>
+</resources>
